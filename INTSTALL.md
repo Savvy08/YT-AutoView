@@ -1,4 +1,4 @@
-Вот подробная инструкция по установке скрипта **YouTube Humanlike Auto Viewer**:
+Вот подробная инструкция по установке скрипта **YouTube Auto Viewer* (YT-AutoView):
 
 ---
 
