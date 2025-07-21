@@ -1,4 +1,4 @@
-Вот подробная инструкция по установке скрипта **YouTube Auto Viewer** (YT-AutoView):
+подробная инструкция по установке скрипта **YouTube Auto Viewer** (YT-AutoView):
 
 ---
 
