@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         YT AutoView 2.7
+// @name         YT AutoView 2.7.0
 // @namespace    https://github.com/Savvy08
-// @version      2.7
+// @version      2.7.0
 // @description  Автоматический просмотр YouTube с имитацией поведения пользователя.
 // @author       Savvy
 // @match        https://www.youtube.com/watch*
@@ -52,8 +52,8 @@
     alert('⛔ Скрипт остановлен');
   });
 
-  GM_registerMenuCommand('Об авторе (@Savvy)', () => {
-    alert('👨‍💻 Скрипт разработан @Savvy08 — github.com/Savvy08');
+  GM_registerMenuCommand('Об авторе', () => {
+    alert('👨‍💻 Скрипт разработан — github.com/Savvy08');
   });
 
   GM_registerMenuCommand('Обновить скрипт', () => location.reload());
@@ -123,10 +123,4 @@
       observeVideo();
     }
   }, 2000);
-
-  // Метка @Savvy в углу
-  const label = document.createElement('div');
-  label.textContent = '@Savvy';
-  label.style = 'position:fixed;bottom:10px;right:10px;font-size:12px;color:white;background:#000;padding:3px 8px;border-radius:6px;z-index:9999;opacity:0.7';
-  document.body.appendChild(label);
 })();
