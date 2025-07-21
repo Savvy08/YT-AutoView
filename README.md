@@ -74,7 +74,7 @@ UI можно закрыть вручную или повторно открыт
 
 1. Установите [Tampermonkey](https://tampermonkey.net/) для вашего браузера
 2. Перейдите в [репозиторий скрипта](https://github.com/Savvy08/YT-AutoView)
-3. Нажмите `Raw` на `YouTube-AutoView.user.js`
+3. Нажмите `Raw` на `YouTube 2.7 Stable.js`
 4. Подтвердите установку
 
 ---
